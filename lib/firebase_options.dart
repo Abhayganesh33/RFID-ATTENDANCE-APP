@@ -38,31 +38,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD2AtmsKJYY4EUZcW2y3wr0Fi_e2lbSLJg',
-    appId: '1:470505148516:web:24e263da53aab092688f71',
+    apiKey: 'your api key',
+    appId: '1:470505148516:web:',
     messagingSenderId: '470505148516',
-    projectId: 'adwaith-49954',
-    authDomain: 'adwaith-49954.firebaseapp.com',
-    storageBucket: 'adwaith-49954.appspot.com', // ✅ Corrected storage bucket
-    databaseURL: 'https://adwaith-49954-default-rtdb.asia-southeast1.firebasedatabase.app', // ✅ Added database URL
+    projectId: '-49954',
+    authDomain: '-49954.firebaseapp.com',
+    storageBucket: '-49954.appspot.com', // ✅ Corrected storage bucket
+    databaseURL: 'https://--default-rtdb.asia-southeast1.firebasedatabase.app', // ✅ Added database URL
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDd1NSMYbNxPBeshpQVq4tftBnMXSf_AL8',
-    appId: '1:470505148516:android:8c7a53da8f09bcb0688f71',
+    apiKey: '',
+    appId: '1:470505148516:\:8c7a53da8f09bcb0688f71',
     messagingSenderId: '470505148516',
     projectId: 'adwaith-49954',
-    storageBucket: 'adwaith-49954.appspot.com', // ✅ Corrected storage bucket
+    storageBucket: '\-49954.appspot.com', // ✅ Corrected storage bucket
     databaseURL: 'https://adwaith-49954-default-rtdb.asia-southeast1.firebasedatabase.app', // ✅ Added database URL
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD2AtmsKJYY4EUZcW2y3wr0Fi_e2lbSLJg',
-    appId: '1:470505148516:web:bc028c95454322c9688f71',
+    apiKey: '',
+    appId: '1::bc028c95454322c9688f71',
     messagingSenderId: '470505148516',
     projectId: 'adwaith-49954',
     authDomain: 'adwaith-49954.firebaseapp.com',
     storageBucket: 'adwaith-49954.appspot.com', // ✅ Corrected storage bucket
-    databaseURL: 'https://adwaith-49954-default-rtdb.asia-southeast1.firebasedatabase.app', // ✅ Added database URL
+    databaseURL: 'https://-49954-default-rtdb.asia-southeast1.firebasedatabase.app', // ✅ Added database URL
   );
 }
