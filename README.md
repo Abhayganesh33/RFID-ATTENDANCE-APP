@@ -1,16 +1,3 @@
-# smart_at
+# face-attendance-app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Smart Attendance App using Face Recognition for automated attendance marking. Built with Flutter, Firebase, OpenCV, and Raspberry Pi, this system replaces manual methods with real-time face detection, secure data storage, and cloud-based management. Full support and on-time delivery provided for BTech/Diploma projects.
